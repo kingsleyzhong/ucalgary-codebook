@@ -46,6 +46,7 @@ Are you copying a lot of unnecessary data? (References)
 How big is the input and output? (consider scanf)
 Avoid vector, map. (use arrays/unordered_map)
 What do your teammates think about your algorithm?
+Did you do anything unorthodox like string concatenation?
 
 Memory limit exceeded:
 What is the max amount of memory your algorithm should need?
